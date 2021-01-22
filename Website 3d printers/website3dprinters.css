@@ -1,0 +1,159 @@
+.p {
+    font-size:80px;
+}
+hr {
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+.topnav {
+    font-family: Hack, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: right;
+    word-spacing: 80px;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-right: 90px;
+    margin-bottom: -40px;
+}
+
+
+.topimage {
+    font-family: Hack, monospace;
+    float:left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.dropdownmenu {
+    font-family: Hack, monospace;
+    text-align: left;
+    margin-bottom:0;
+    margin-left: -0px;
+}
+
+.headtitel {
+    font-family: Hack, monospace;
+    text-align: left;
+    font-size: 14px;
+    margin: 0 auto;
+    margin-left: 40px;
+    margin-top: 40px;
+    float: left;
+}
+
+.midtitle {
+    font-family: Hack, monospace;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 200px;
+}
+
+.firstparagraph {
+    font-family: Hack, monospace;
+    text-align: left;
+    margin: 0 auto;
+    margin-left: 1000px;
+    margin-right: 300px;
+    margin-top: 200px;
+
+}
+
+.sendbutton {
+    margin-left: 808px;
+    margin-top:-180px;
+    padding-left: 300px;
+    
+}
+
+.image1 {
+    margin-top: -350px;
+    margin-left: 40px;
+    margin-bottom: 200px;
+}
+
+.image2 {
+    margin-left:1050px;
+    margin-top:-400px;
+
+}
+
+.secondparagraph {
+    font-family: Hack, monospace;
+    text-align: left;
+    margin: 0 auto;
+    margin-left: 300px;
+    margin-right: 1000px;
+    margin-bottom: -400px;
+
+}
+.pricingbutton {
+    font-family: Hack, monospace;
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 450px;
+    margin-left: 300px;
+}
+
+.privpolicy {
+    font-family: Hack, monospace;
+    text-align: right;
+    margin-right: 10px;
+    margin-top: -50px;
+    opacity: 50%;
+}
+
+.getintouchbar {
+    font-family: Hack, monospace;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 500px;
+}
+
+.list {
+    font-family: Hack, monospace;
+    text-align: left;
+    margin-bottom:200px;
+    margin-left: 650px;
+}
+
+.underimage {
+    text-align: left;
+    font-family: Hack, monospace;
+    float: left;
+}
+
+.leftundertext {
+    text-align: left;
+    font-family: Hack, monospace;
+    margin-left: 80px;
+    opacity: 50%;
+}
+
+.placeholdertextarea {
+    text-align: left;
+    font-family: Hack, monospace;
+    margin-left: 650px;
+    margin-bottom: 250px;
+    margin-top: -180px;
+    max-height: 200px;  
+    opacity: 50%;
+}
+
+.container {
+    width: 580px;
+    height: 200px;
+}
+
+.background-block {
+    background-color: lightblue;
+    opacity: 0.9;
+    width: full;
+    height: 565px;
+}
